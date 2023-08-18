@@ -1,5 +1,5 @@
 itzjackca
-Ytzhak Ariel Armoni i.d 336394010
+Ytzhak Ariel Armoni
 
 ex5 - OS : Physical and Logical memory .
 
