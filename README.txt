@@ -1,4 +1,3 @@
-itzjackca
 Ytzhak Ariel Armoni
 
 ex5 - OS : Physical and Logical memory .
